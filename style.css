@@ -8,42 +8,66 @@
     margin-bottom: 10px;
     color:white;
 
-    /* border: 2px solid #000; */
+    border: 2px solid #000;
     border-radius: 50px;
     -moz-border-radius: 50px;
+    font-weight: 600;
 }
 .culoaretext {
     color:gray;
 }
 
 .culoare0 {
-    background-color: rgb(174, 36, 215);
+    background-color: white;
+    border-color: rgb(174, 36, 215);
+    color: rgb(174, 36, 215);
 }
 
 .culoare1 {
-    background-color: rgb(107, 0, 117);
+    background-color: white;
+    border-color: rgb(107, 0, 117);
+    color: rgb(107, 0, 117);
 }
 
 .culoare2 {
-    background-color: rgb(21, 239, 39);
+    background-color: white;
+    border-color: rgb(21, 239, 39);
+    color: rgb(21, 239, 39);
 }
 
 .culoare3 {
-    background-color: rgb(80, 232, 255);
+    background-color: white;
+    border-color: rgb(80, 232, 255);
+    color: rgb(80, 232, 255);
 }
 
 .culoare4 {
-    background-color: rgb(208, 121, 27);
+    background-color: white;
+    border-color: rgb(208, 121, 27);
+    color: rgb(208, 121, 27);
 }
 
 .culoare5 {
-    background-color: rgb(192, 16, 16);
+    background-color: white;
+    border-color: rgb(192, 16, 16);
+    color: rgb(192, 16, 16);
 }
 
 .culoare7 {
-    background-color: rgb(0, 0, 0);
+    background-color: white;
+    border-color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
 }
 
 .culoare8 {
-    background-color: rgb(126, 129, 126);
+    background-color: white;
+    border-color: rgb(237, 237, 237);
+    color: rgb(84, 88, 84);
+}
+
+.culoare9 {
+    background-color: white;
+    border-color: rgb(237, 237, 237);
+    color: rgb(84, 88, 84);
+    border-style: dashed;
 }
